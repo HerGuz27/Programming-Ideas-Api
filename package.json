@@ -4,7 +4,7 @@
   "description": "Ideas for programming ",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node index.js"
   },
   "author": "hernangut96@gmail.com",
   "license": "ISC",
